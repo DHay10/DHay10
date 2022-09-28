@@ -1,10 +1,10 @@
 # 💀 DHay10 💀
 
-## `Computer Science Student`
+### `Computer Science Student`
 
 I am a currently a student in the Computer Science Technology Program (420.0B) @ *Vanier College*, focusing on Web Development and Game Programming. The repositories on this profile are mostly school projects made in teams with some guidance offered by teachers.
 
-## Languages & Tools
+### Languages & Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
@@ -14,7 +14,7 @@ I am a currently a student in the Computer Science Technology Program (420.0B) @
 
 <br /><br />
 
-## Contacts
+### Contacts
 
 - son-ta@hotmail.fr
-- [Linkedin](https://www.linkedin.com/in/dhay10/)
+- [LinkedIn](https://www.linkedin.com/in/dhay10/)
