@@ -20,5 +20,5 @@ I am a currently a student in the Computer Science Technology Program (420.0B) @
 
 ## Contacts
 
-- son-ta@hotmail.fr
+- andytnc@pm.me
 - [LinkedIn](https://www.linkedin.com/in/dhay10/)
